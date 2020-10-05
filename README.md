@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![Amat Victoria Curam](https://i.ibb.co/09WyKTs/AMC.jpg)
+
 - 🔭 I’m currently working on ...My final project for Flatiron School
 
 <!--
