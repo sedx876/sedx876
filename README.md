@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ...My final project for Flatiron School
 
 <!--
 **sedx876/sedx876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
