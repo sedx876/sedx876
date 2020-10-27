@@ -2,7 +2,7 @@
 
 ![Amat Victoria Curam](https://i.ibb.co/09WyKTs/AMC.jpg)
 
-- 🔭 I’m currently working on ...My final project for Flatiron School
+- 🔭 I’m currently working on ...Learning more about NodeJS
 
 <!--
 **sedx876/sedx876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
