@@ -4,7 +4,7 @@
 
  I am a recent graduate of Flatiron School in the software engineering track and I am currently seeking employment as a full stack developer. I gained experience in programming languages such as Ruby, Javascript, SQL, HTML, CSS, Rails, React and Redux.
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently on the hunt for my first Dev role!!!
 
 <!--
 **sedx876/sedx876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
