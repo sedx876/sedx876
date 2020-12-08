@@ -2,7 +2,7 @@
 
 ![Amat Victoria Curam](https://i.ibb.co/09WyKTs/AMC.jpg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedx876&layout=compact)](https://github.com/sedx876/github-readme-stats)
+
 
 [![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=sedx876)](https://github.com/sedx876/github-readme-stats)
 
