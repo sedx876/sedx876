@@ -2,6 +2,8 @@
 
 ![Amat Victoria Curam](https://i.ibb.co/09WyKTs/AMC.jpg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedx876&layout=compact)](https://github.com/sedx876/github-readme-stats)
+
 [![Sharon's github stats](https://github-readme-stats.vercel.app/api?username=sedx876)](https://github.com/sedx876/github-readme-stats)
 
  I am a recent graduate of Flatiron School in the software engineering track and I am currently seeking employment as a full stack developer. I gained experience in programming languages such as Ruby, Javascript, SQL, HTML, CSS, Rails, React and Redux.
