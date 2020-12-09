@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Amat Victoria Curam](https://i.ibb.co/09WyKTs/AMC.jpg)
+![Amat Victoria Curam](https://i.ibb.co/SrR8Hrc/Simple-Technology-Linked-In-Banner-1.png)
 
 
 
