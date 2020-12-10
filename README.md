@@ -10,7 +10,11 @@
 
 - 🌱 I’m currently on the hunt for my first Dev role!!
 
-[![sedx876's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/sedx876)
+<div>
+ <a href="https://dev.to/sedx876">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="sedx876's DEV Profile" height="30" width="30">
+</a>
+ <div>
 
 <!--
 **sedx876/sedx876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
