@@ -12,7 +12,7 @@
 
 <div>
  <a href="https://dev.to/sedx876">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="sedx876's DEV Profile" height="30" width="30">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="sedx876's DEV Profile" height="50" width="50">
 </a>
  <div>
 
