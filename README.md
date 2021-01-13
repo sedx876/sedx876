@@ -9,6 +9,7 @@
  I am a recent graduate of Flatiron School in the software engineering track and I am currently seeking my first role as a full stack software engineer. I gained experience in programming languages such as Ruby, Javascript, SQL, HTML, CSS, Rails, React and Redux.
 
 - 🌱 I’m currently on the hunt for my First Dev Role!!
+- 📫 How to reach me: ... SWatkins876@gmail.com
 
 <!--<div>
  <a href="https://dev.to/sedx876">
