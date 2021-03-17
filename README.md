@@ -10,7 +10,7 @@
  
 -🤔 Adding Java to my stack.
 - 🌱 I’m currently on the hunt for my First Dev Role!
-- 📫 How to reach me: SWatkins876@gmail.com
+- 📫 How to reach me: sWatkins876@gmail.com
 
 <!--<div>
  <a href="https://dev.to/sedx876">
