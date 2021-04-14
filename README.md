@@ -10,7 +10,7 @@
  
 -🤔 Adding Java to my stack.
 - 🌱 I’m currently on the hunt for my First Dev Role!
-- - 🌱 I’m currently learning the Spring Framework
+- 🌱 I’m currently learning the Spring Framework
 - 📫 How to reach me: sWatkins876@gmail.com
 
 <!--<div>
