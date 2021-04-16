@@ -14,7 +14,7 @@
 - 📫 How to reach me: sWatkins876@gmail.com
 
 <!--<div>
- <a href="https://dev.to/sedx876">
+ <a href="https://sedx876.medium.com/">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="sedx876's DEV Profile" height="40" width="40">
 </a>
  <div>-->
