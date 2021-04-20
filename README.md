@@ -6,7 +6,7 @@
 
 [![Sharon's Github Stats](https://github-readme-stats.vercel.app/api?username=sedx876)](https://github.com/sedx876/github-readme-stats)
 <br/>
- I am a graduate of Flatiron School in the Software Engineering Track and I am currently seeking my first role as a full stack software engineer. I gained experience in programming languages such as Ruby, Javascript, SQL, HTML, CSS, Rails, Java, React and Redux.
+ I am a graduate of Flatiron School in the Software Engineering Track and I am currently seeking my first role as a full stack software engineer. I gained experience in programming languages such as Ruby, Javascript, SQL, HTML, CSS, Rails, Java, React, Redux and Spring Framework.
  
 -🤔 Adding Java to my stack.
 - 🌱 I’m currently on the hunt for my First Dev Role!
