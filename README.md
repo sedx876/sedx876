@@ -1,4 +1,4 @@
-### Hello!! 👋
+<h1>Hello</h1> 👋
 
 ![Goal Getter](https://i.ibb.co/SrR8Hrc/Simple-Technology-Linked-In-Banner-1.png)
 
