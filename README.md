@@ -10,7 +10,7 @@
  I am a graduate of Flatiron School in the Software Engineering Track and I am currently seeking my first role as a full stack software engineer. I gained experience in programming languages such as Ruby, Javascript, SQL, HTML, CSS, Rails, Java, React, Redux and Spring Framework.
  
 -🤔 Adding Java and Spring Framework to my stack.
-- 🌱 I’m currently on the hunt for my First Dev Role!
+- 🌱 I’m currently on the hunt for my First Dev Role
 - 📫 How to reach me: sWatkins876@gmail.com
 
 <!--<div>
