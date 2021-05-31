@@ -1,4 +1,4 @@
-<h1>Hello and Welcome</h1>
+<h1 style="color:blue;text-align:center;">Hello and Welcome</h1>
 
 ![Goal Getter](https://i.ibb.co/SrR8Hrc/Simple-Technology-Linked-In-Banner-1.png)
 
