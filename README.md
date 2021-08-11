@@ -11,7 +11,7 @@
  
 
 - 🌱 I’m currently on the hunt for my First Dev Role
-- 📫 How to reach me: sWatkins876@gmail.com
+- 📫 sWatkins876@gmail.com
 
 <!--<div>
  <a href="https://sedx876.medium.com/">
